@@ -13,13 +13,17 @@ const sum = function(numbers) {
 	return x;
 };
 
-const multiply = function() {
-
+const multiply = function(numbers) {
+  const multiplied = numbers.reduce((total, currentValue) => total * currentValue);
+  return multiplied;
 };
 
-const power = function() {
-	
+
+const power = function(x, y) {
+  return x ** y;
 };
+
+
 
 const factorial = function() {
 	
