@@ -8,3 +8,8 @@ Create a function that returns a specific member of the Fibonacci sequence:
 fibonacci(4) // returns the 4th member of the series: 3  (1, 1, 2, 3)
 fibonacci(6) // returns 8
 ```
+
+1 1 2 3 5 8
+
+create a function that takes in a number
+iterate ++ until given number is reached
